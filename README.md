@@ -18,7 +18,7 @@ built in python sqlite functions.
 
 Run Instructions
 ----------------
-Run email-extraction.py first, then run email-processing.py.
+Run email-extraction.py first, then run email-processing.py with email-data.txt passed as an argument.
 
 It is possible that the web server can't be reached from within email-extraction.py.
 If this is the case, you can still run email-processing.py because the repository should have included
