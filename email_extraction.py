@@ -3,7 +3,7 @@
 import os
 
 # variables
-output_file = 'email-data.txt'
+output_file = 'email_data.txt'
 base_url = 'http://mail.cs.ou.edu/pipermail/cs/'
 documents = ['2014-April.txt.gz',
              '2014-May.txt.gz',

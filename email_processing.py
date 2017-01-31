@@ -65,7 +65,7 @@ def parse_email(email):
 # ---script---
 
 # reading file into a list of emails
-emails = read_file('email-data.txt')
+emails = read_file('email_data.txt')
 
 # creating / connecting to pipermail.db
 db = sqlite3.connect('pipermail.db')
